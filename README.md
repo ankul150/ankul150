@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ankul150
 - 👀 I’m interested in Data Science and generative ai
-- 🌱 I’m currently learning python for data science
+- 🌱 I’m currently working a project based on data science
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me by email or linkedin 
+- 📫 How to reach me by email (amita96700@gmail.com) or linkedin 
 - 😄 Pronouns: He/Him
 
 
